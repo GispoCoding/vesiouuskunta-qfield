@@ -12,4 +12,4 @@ Koko työnkulku pääpiirteissään:
 6. Kerää tietoja
 7. Siirrä tiedostot takaisin tietokoneelle ja synkronoi takaisin QGIS-projektiin QFieldSync-lisäosalla
 8. Tee tarvittavat lisäykset ja muutokset QGISissä
-9. Vie ulos QGISistä haluamaasi muotoon (esimerkiksi .xlsx, .csv, .gpkg)
+9. Vie ulos QGISistä haluamaasi muotoon (esimerkiksi .xlsx, .csv, .gpkg) 
