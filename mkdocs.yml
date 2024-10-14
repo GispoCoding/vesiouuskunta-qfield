@@ -8,4 +8,5 @@ nav:
   - 4. Mktj-PoC:n käyttö: 4_mktj.md
   - 5. QFieldistä QGISiin: 5_qfieldista_qgissiin.md
 use_directory_urls: false
-theme: readthedocs
+theme:
+  name: readthedocs
