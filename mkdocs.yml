@@ -10,4 +10,4 @@ nav:
   - 5. QFieldistä QGISiin: 5_qfieldista_qgissiin.md
 use_directory_urls: false
 theme:
-  name: readthedocs
+  name: mkdocs
