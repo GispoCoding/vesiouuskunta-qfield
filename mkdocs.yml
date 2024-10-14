@@ -1,4 +1,5 @@
 site_name: Metsäkoetietojärjestelmän QField PoC 
+site_url: https://gispocoding.github.io/luke-qfield/
 copyright: 'Tekijä: <a href="info@gispo.fi">Gispo Suomi Oy</a>'
 nav:  
   - Koti: 0_index.md
