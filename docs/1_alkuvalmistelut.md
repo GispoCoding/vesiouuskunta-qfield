@@ -3,9 +3,11 @@
 - Asenna itsellesi tietokoneelle [QGISin viimeisin vakaa versio (LTR)](https://qgis.org/fi/site/forusers/download.html).
 - Asenna mobiililaitteellesi [QField-sovellus sovelluskaupastasi](https://qfield.org/).
 
-Lataa GeoPackage-tiedosto: 
+Lataa GeoPackage-tiedosto, joka sisältää projektitiedoston (ilman dataa): 
 
-- [QGIS-projekti (testiversio 1.0)](https://drive.google.com/file/d/1AhPhCEMgjQIsPpOFmD4X_MawTv5-8__5/view?usp=drive_link) 
+- [QGIS-projekti (testiversio 1.0)](https://drive.google.com/file/d/1AhPhCEMgjQIsPpOFmD4X_MawTv5-8__5/view?usp=drive_link)
+
+- [QGIS-projekti (testiversio 1.1)](https://drive.google.com/file/d/1i85eHRIsx55Jhv2ZX2lRRFiNJ339A9jW/view?usp=drive_link)
 
 ## Projektin avaaminen
 
