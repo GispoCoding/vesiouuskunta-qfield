@@ -2,7 +2,7 @@
 
 Kun olet käynyt maastossa ja kerännyt tietoja, voit siirtää tiedot takaisin (yleensä) alkuperäiseen QGIS-projektiin.
 
-Yhdistä puhelin tietokoneeseen ja kopioi koko projektin kansio puhelimesta sijainnista **drive:/Android/data/ch.opengis.qfield/files/QField** tietokoneelle, vaikkapa sijaintiin kotihakemisto/QField/import (oletuspolku QFieldSync-lisäosalle, esim. C:\Users\käyttäjänimi\QField\import). 
+Yhdistä puhelin tietokoneeseen ja kopioi koko projektin kansio puhelimesta sijainnista **drive:/Android/data/ch.opengis.qfield/files/Imported Projects** tietokoneelle, vaikkapa sijaintiin kotihakemisto/QField/import (oletuspolku QFieldSync-lisäosalle, esim. C:\Users\käyttäjänimi\QField\import). 
 
 Avaa alkuperäinen QGIS-projektisi (eli *ei* se mikä löytyi puhelimesta) tietokoneella.
 
