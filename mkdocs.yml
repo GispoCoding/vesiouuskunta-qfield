@@ -2,7 +2,8 @@ site_name: Vesiosuuskuntien QField
 site_url: https://gispocoding.github.io/vesiosuuskunta-qfield/
 copyright: 'Tekijä: <a href="info@gispo.fi">Gispo Suomi Oy</a>'
 nav:  
-  - Koti: index.md
+  - Koti: 0_index.md
+  - Testi: 1_testi.md
 use_directory_urls: false
 theme:
   name: readthedocs
